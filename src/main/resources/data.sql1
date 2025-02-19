@@ -1,0 +1,6 @@
+INSERT INTO product (ID, PRODUCT_AVAILABLE, BRAND, CATEGORY, DESCRIPTION, NAME, PRICE, STOCK_QUANTITY,RELEASE_DATE) VALUES
+(1, 'Yes', 'BrandX', 'Electronics', 'A high-quality electronic device', 'GadgetPro', 299.99, 50, '2024-12-31'),
+(2, 'No', 'BrandY', 'Home Appliances', 'A reliable home appliance', 'HomeMaster', 199.99, 0, '2024-11-15'),
+(3, 'Yes', 'BrandZ', 'Fashion', 'A stylish piece of clothing', 'Fashionista', 49.99, 100, '2024-10-10'),
+(4, 'Yes', 'BrandA', 'Books', 'An engaging novel', 'BookWorm', 14.99, 200, '2024-09-05'),
+(5, 'No', 'BrandB', 'Toys', 'A fun toy for kids', 'ToyJoy', 24.99, 0, '2024-08-20');
